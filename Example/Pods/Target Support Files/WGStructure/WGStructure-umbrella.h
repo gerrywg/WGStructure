@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "WGPriorityQueue.h"
+#import "WGQueue.h"
 
 FOUNDATION_EXPORT double WGStructureVersionNumber;
 FOUNDATION_EXPORT const unsigned char WGStructureVersionString[];
