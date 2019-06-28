@@ -1,0 +1,6 @@
+framework module WGStructure {
+  umbrella header "WGStructure-umbrella.h"
+
+  export *
+  module * { export * }
+}

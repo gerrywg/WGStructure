@@ -1,0 +1,16 @@
+PODS:
+  - WGStructure (0.1.0)
+
+DEPENDENCIES:
+  - WGStructure (from `../`)
+
+EXTERNAL SOURCES:
+  WGStructure:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WGStructure: a62d6ed3b4c04cecfd3a09d40c7c286ba54cb244
+
+PODFILE CHECKSUM: c961f206086b987c38574775e152d6940ef1691b
+
+COCOAPODS: 1.5.0

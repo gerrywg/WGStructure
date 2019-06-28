@@ -1,0 +1,6 @@
+framework module Pods_WGStructure_Example {
+  umbrella header "Pods-WGStructure_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
